@@ -1,0 +1,9 @@
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\Code Domain\C# Projects\TokoBuku\BookStore\BookStore\obj\Debug\BookStore.pdb
